@@ -1,0 +1,13 @@
+* [2021-12-21] [1906d50] | bbbc추가 {{Jaehong Choe}}  (HEAD -> master)
+* [2021-12-21] [3226b63] | a.txt 삭제 {{Jaehong Choe}} 
+* [2021-12-21] [f576081] | -v 안하고 커밋 {{Jaehong Choe}} 
+* [2021-12-21] [64096b0] | First commit {{Jaehong Choe}} 
+* [2021-12-15] [dd177ac] | Create test_a.txt in test branch {{Jaehong Choe}}  (origin/test)
+* [2021-12-15] [81bd712] | Create f.txt {{Jaehong Choe}}  (origin/master)
+* [2021-12-15] [faff423] | Create d.txt {{Jaehong Choe}} 
+* [2021-12-15] [bdc3448] | Add c.txt {{Jaehong Choe}} 
+* [2021-12-15] [3ed0ba5] | Add b.txt {{Jaehong Choe}} 
+* [2021-12-15] [02a39b4] | Add a.txt {{Jaehong Choe}} 
+* [2021-12-15] [ad46755] | readme 일단 커밋 {{Jaehong Choe}} 
+* [2021-11-02] [6e4a79c] | 왜 안돼? {{NB993}} 
+* [2021-11-02] [ec5e118] | first commit {{NB993}} 
